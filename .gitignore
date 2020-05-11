@@ -1,0 +1,41 @@
+# Compiled class file
+*.class
+*.classpath
+/**/.settings/
+rebel.xml
+# Intellij
+*.iml
+*/*.iml
+*/target/*
+**/target/*
+.idea/*
+*.log
+*/.output/*
+
+# eclipse
+.project
+.factorypath
+
+# Mac
+.DS_Store
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# antd
+**/node_modules
+**/dist
